@@ -1,5 +1,5 @@
 import bugintroduced as bi
-from flask import Flask
+from hello import Flask
 
 app = Flask(__name__)
 

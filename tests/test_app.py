@@ -1,4 +1,4 @@
-import app as myapp
+import bugintroduced as myapp
 
 def test_home():
     client = myapp.app.test_client()
